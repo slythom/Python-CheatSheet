@@ -1,4 +1,7 @@
 # Create a virtual environment
+# Windows
+python -m venv venv
+# on macOS/Linux
 python3 -m venv venv
 
 # Activate it
