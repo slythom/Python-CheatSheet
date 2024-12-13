@@ -10,6 +10,6 @@ venv\Scripts\activate
 # on macOS/Linux
 source venv/bin/activate
 
-Deactivate it
+# Deactivate it
 # All OS
 deactivate
